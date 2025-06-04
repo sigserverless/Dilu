@@ -1,0 +1,680 @@
+{'Time': '2024-06-19 15:45:36', 'Action': 'start', 'Instance': {'service_name': 'inference-4qswmk', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:45:37', 'Action': 'start', 'Instance': {'service_name': 'inference-fcjkpb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [3]}}
+{'Time': '2024-06-19 15:45:38', 'Action': 'start', 'Instance': {'service_name': 'inference-ufviqd', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [4]}}
+{'Time': '2024-06-19 15:45:39', 'Action': 'start', 'Instance': {'service_name': 'inference-y1wdfw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.52, 'memory': [5]}}
+{'Time': '2024-06-19 15:45:40', 'Action': 'start', 'Instance': {'service_name': 'inference-s24gfq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.54, 'memory': [3]}}
+{'Time': '2024-06-19 15:45:41', 'Action': 'start', 'Instance': {'service_name': 'inference-hfc1vh', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.59, 'memory': [10]}}
+{'Time': '2024-06-19 15:45:42', 'Action': 'start', 'Instance': {'service_name': 'inference-oiippw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [6]}}
+{'Time': '2024-06-19 15:45:43', 'Action': 'start', 'Instance': {'service_name': 'training-0uyahm', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.52, 'sm_limits': 0.8, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:45:44', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-pdoqcq', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [21]}}
+{'Time': '2024-06-19 15:45:45', 'Action': 'start', 'Instance': {'service_name': 'inference-ivt707', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [6]}}
+{'Time': '2024-06-19 15:45:46', 'Action': 'start', 'Instance': {'service_name': 'inference-8fpehv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [7]}}
+{'Time': '2024-06-19 15:45:47', 'Action': 'start', 'Instance': {'service_name': 'inference-e604m9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [4]}}
+{'Time': '2024-06-19 15:45:48', 'Action': 'start', 'Instance': {'service_name': 'inference-oa56xo', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.59, 'memory': [3]}}
+{'Time': '2024-06-19 15:45:49', 'Action': 'start', 'Instance': {'service_name': 'inference-0rbri3', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.53, 'memory': [9]}}
+{'Time': '2024-06-19 15:45:50', 'Action': 'start', 'Instance': {'service_name': 'inference-pza8k5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [5]}}
+{'Time': '2024-06-19 15:45:51', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-bj4lhf', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.41, 'sm_limits': 0.79, 'memory': [29]}}
+{'Time': '2024-06-19 15:45:52', 'Action': 'start', 'Instance': {'service_name': 'inference-o8co74', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [4]}}
+{'Time': '2024-06-19 15:45:53', 'Action': 'start', 'Instance': {'service_name': 'inference-8evzig', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.2, 'sm_limits': 0.6, 'memory': [8]}}
+{'Time': '2024-06-19 15:45:54', 'Action': 'start', 'Instance': {'service_name': 'inference-we3ppa', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [7]}}
+{'Time': '2024-06-19 15:45:55', 'Action': 'start', 'Instance': {'service_name': 'inference-uway4a', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [10]}}
+{'Time': '2024-06-19 15:45:56', 'Action': 'start', 'Instance': {'service_name': 'inference-coc5t0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.57, 'memory': [9]}}
+{'Time': '2024-06-19 15:45:57', 'Action': 'start', 'Instance': {'service_name': 'training-qbglw7', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.59, 'sm_limits': 0.88, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:45:58', 'Action': 'start', 'Instance': {'service_name': 'inference-p7dsqw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.59, 'memory': [10]}}
+{'Time': '2024-06-19 15:45:59', 'Action': 'start', 'Instance': {'service_name': 'inference-slo83l', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [7]}}
+{'Time': '2024-06-19 15:46:00', 'Action': 'start', 'Instance': {'service_name': 'training-nsxatk', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.56, 'sm_limits': 0.83, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:46:01', 'Action': 'start', 'Instance': {'service_name': 'training-fwu976', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.49, 'sm_limits': 0.74, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:46:02', 'Action': 'start', 'Instance': {'service_name': 'inference-m52rjk', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [3]}}
+{'Time': '2024-06-19 15:46:03', 'Action': 'start', 'Instance': {'service_name': 'inference-kpkomg', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [4]}}
+{'Time': '2024-06-19 15:46:04', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-858dji', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.48, 'sm_limits': 0.77, 'memory': [26]}}
+{'Time': '2024-06-19 15:46:05', 'Action': 'start', 'Instance': {'service_name': 'inference-7e95mb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [8]}}
+{'Time': '2024-06-19 15:46:06', 'Action': 'start', 'Instance': {'service_name': 'inference-ecws0m', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.45, 'memory': [3]}}
+{'Time': '2024-06-19 15:46:07', 'Action': 'start', 'Instance': {'service_name': 'inference-43k7ib', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.59, 'memory': [9]}}
+{'Time': '2024-06-19 15:46:08', 'Action': 'start', 'Instance': {'service_name': 'inference-a2gbi0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [5]}}
+{'Time': '2024-06-19 15:46:09', 'Action': 'start', 'Instance': {'service_name': 'inference-b0vnof', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [9]}}
+{'Time': '2024-06-19 15:46:10', 'Action': 'start', 'Instance': {'service_name': 'inference-n09gox', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.54, 'memory': [8]}}
+{'Time': '2024-06-19 15:46:11', 'Action': 'start', 'Instance': {'service_name': 'inference-3y56u4', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.41000000000000003, 'memory': [10]}}
+{'Time': '2024-06-19 15:46:12', 'Action': 'start', 'Instance': {'service_name': 'inference-tvbjef', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.44, 'memory': [7]}}
+{'Time': '2024-06-19 15:46:13', 'Action': 'start', 'Instance': {'service_name': 'training-g2e4jo', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.54, 'sm_limits': 0.91, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:46:14', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-esnt4q', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.57, 'sm_limits': 0.78, 'memory': [21]}}
+{'Time': '2024-06-19 15:46:15', 'Action': 'start', 'Instance': {'service_name': 'inference-knekf5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [5]}}
+{'Time': '2024-06-19 15:46:16', 'Action': 'start', 'Instance': {'service_name': 'training-r2on06', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.64, 'sm_limits': 0.8400000000000001, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 15:46:17', 'Action': 'start', 'Instance': {'service_name': 'inference-kpv3r1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [5]}}
+{'Time': '2024-06-19 15:46:18', 'Action': 'start', 'Instance': {'service_name': 'inference-zfvmw9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [4]}}
+{'Time': '2024-06-19 15:46:19', 'Action': 'start', 'Instance': {'service_name': 'inference-jouyma', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [7]}}
+{'Time': '2024-06-19 15:46:20', 'Action': 'start', 'Instance': {'service_name': 'inference-p8j8da', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.56, 'memory': [10]}}
+{'Time': '2024-06-19 15:46:21', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-w4qpuf', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.66, 'memory': [28]}}
+{'Time': '2024-06-19 15:46:22', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-i7wbvg', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.54, 'sm_limits': 0.8, 'memory': [30]}}
+{'Time': '2024-06-19 15:46:23', 'Action': 'start', 'Instance': {'service_name': 'training-arpp82', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.6, 'sm_limits': 0.89, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:46:24', 'Action': 'start', 'Instance': {'service_name': 'inference-47s9ba', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [3]}}
+{'Time': '2024-06-19 15:46:25', 'Action': 'start', 'Instance': {'service_name': 'training-bfbcx3', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.72, 'sm_limits': 1.0, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:46:26', 'Action': 'start', 'Instance': {'service_name': 'inference-52dxng', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [8]}}
+{'Time': '2024-06-19 15:46:27', 'Action': 'start', 'Instance': {'service_name': 'inference-rbxbw2', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [8]}}
+{'Time': '2024-06-19 15:46:28', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-vsofg5', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.49, 'sm_limits': 0.69, 'memory': [25]}}
+{'Time': '2024-06-19 15:46:29', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-98r9al', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.43, 'sm_limits': 0.74, 'memory': [28]}}
+{'Time': '2024-06-19 15:46:30', 'Action': 'start', 'Instance': {'service_name': 'inference-ff84xm', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [8]}}
+{'Time': '2024-06-19 15:46:31', 'Action': 'start', 'Instance': {'service_name': 'inference-z62ac2', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [8]}}
+{'Time': '2024-06-19 15:46:32', 'Action': 'start', 'Instance': {'service_name': 'inference-72iggp', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.59, 'memory': [8]}}
+{'Time': '2024-06-19 15:46:33', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-y3wns8', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.47, 'sm_limits': 0.68, 'memory': [20]}}
+{'Time': '2024-06-19 15:46:34', 'Action': 'start', 'Instance': {'service_name': 'inference-cwk6wx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [4]}}
+{'Time': '2024-06-19 15:46:35', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-36a8tk', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.78, 'memory': [20]}}
+{'Time': '2024-06-19 15:46:36', 'Action': 'start', 'Instance': {'service_name': 'training-a220ih', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.48, 'sm_limits': 0.77, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:46:36', 'Action': 'delete', 'Instance': {'service_name': 'inference-4qswmk', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:46:37', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-av4shk', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.8, 'memory': [25]}}
+{'Time': '2024-06-19 15:46:38', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-tcoiam', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.77, 'memory': [29]}}
+{'Time': '2024-06-19 15:46:39', 'Action': 'start', 'Instance': {'service_name': 'training-k8ri30', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.68, 'sm_limits': 0.8800000000000001, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:46:40', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-7ahnts', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.48, 'sm_limits': 0.8, 'memory': [23]}}
+{'Time': '2024-06-19 15:46:41', 'Action': 'start', 'Instance': {'service_name': 'inference-gaalq6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.55, 'memory': [9]}}
+{'Time': '2024-06-19 15:46:42', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-lpzyc0', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.54, 'sm_limits': 0.79, 'memory': [25]}}
+{'Time': '2024-06-19 15:46:42', 'Action': 'delete', 'Instance': {'service_name': 'inference-oiippw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [6]}}
+{'Time': '2024-06-19 15:46:43', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-whmfn1', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.57, 'sm_limits': 0.79, 'memory': [24]}}
+{'Time': '2024-06-19 15:46:44', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-eb4enn', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.51, 'sm_limits': 0.72, 'memory': [26]}}
+{'Time': '2024-06-19 15:46:45', 'Action': 'start', 'Instance': {'service_name': 'inference-ungh9e', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [7]}}
+{'Time': '2024-06-19 15:46:46', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-vy6ic1', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.77, 'memory': [24]}}
+{'Time': '2024-06-19 15:46:46', 'Action': 'delete', 'Instance': {'service_name': 'inference-8fpehv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [7]}}
+{'Time': '2024-06-19 15:46:47', 'Action': 'start', 'Instance': {'service_name': 'inference-y5kh3u', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [5]}}
+{'Time': '2024-06-19 15:46:48', 'Action': 'start', 'Instance': {'service_name': 'inference-gn1jfi', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.46, 'memory': [9]}}
+{'Time': '2024-06-19 15:46:49', 'Action': 'start', 'Instance': {'service_name': 'inference-he4i9h', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [8]}}
+{'Time': '2024-06-19 15:46:50', 'Action': 'start', 'Instance': {'service_name': 'inference-pq9kx8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [10]}}
+{'Time': '2024-06-19 15:46:51', 'Action': 'start', 'Instance': {'service_name': 'inference-5wavva', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [5]}}
+{'Time': '2024-06-19 15:46:52', 'Action': 'start', 'Instance': {'service_name': 'inference-3s09w2', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [10]}}
+{'Time': '2024-06-19 15:46:52', 'Action': 'delete', 'Instance': {'service_name': 'inference-o8co74', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [4]}}
+{'Time': '2024-06-19 15:46:53', 'Action': 'start', 'Instance': {'service_name': 'inference-g34mw4', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.57, 'memory': [9]}}
+{'Time': '2024-06-19 15:46:54', 'Action': 'start', 'Instance': {'service_name': 'training-mbs5ri', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.46, 'sm_limits': 0.76, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:46:54', 'Action': 'delete', 'Instance': {'service_name': 'inference-we3ppa', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [7]}}
+{'Time': '2024-06-19 15:46:55', 'Action': 'start', 'Instance': {'service_name': 'inference-ryk7kw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [6]}}
+{'Time': '2024-06-19 15:46:56', 'Action': 'start', 'Instance': {'service_name': 'inference-yfblpi', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.52, 'memory': [8]}}
+{'Time': '2024-06-19 15:46:56', 'Action': 'delete', 'Instance': {'service_name': 'inference-coc5t0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.57, 'memory': [9]}}
+{'Time': '2024-06-19 15:46:57', 'Action': 'start', 'Instance': {'service_name': 'inference-a3xdm8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [3]}}
+{'Time': '2024-06-19 15:46:58', 'Action': 'start', 'Instance': {'service_name': 'inference-yism2r', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [5]}}
+{'Time': '2024-06-19 15:46:59', 'Action': 'start', 'Instance': {'service_name': 'inference-xkl42f', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:00', 'Action': 'start', 'Instance': {'service_name': 'inference-i1cqqw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.59, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:01', 'Action': 'start', 'Instance': {'service_name': 'inference-6b64yf', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [3]}}
+{'Time': '2024-06-19 15:47:02', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-losr9b', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.44, 'sm_limits': 0.73, 'memory': [22]}}
+{'Time': '2024-06-19 15:47:03', 'Action': 'start', 'Instance': {'service_name': 'training-ehcs3p', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.63, 'sm_limits': 0.8300000000000001, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:47:03', 'Action': 'delete', 'Instance': {'service_name': 'inference-kpkomg', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [4]}}
+{'Time': '2024-06-19 15:47:04', 'Action': 'start', 'Instance': {'service_name': 'inference-o6zgvb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:04', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-858dji', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.48, 'sm_limits': 0.77, 'memory': [26]}}
+{'Time': '2024-06-19 15:47:05', 'Action': 'start', 'Instance': {'service_name': 'inference-m36fuq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.59, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:06', 'Action': 'start', 'Instance': {'service_name': 'inference-jlbj87', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:06', 'Action': 'delete', 'Instance': {'service_name': 'inference-ecws0m', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.45, 'memory': [3]}}
+{'Time': '2024-06-19 15:47:07', 'Action': 'start', 'Instance': {'service_name': 'inference-9m1jbn', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.57, 'memory': [6]}}
+{'Time': '2024-06-19 15:47:08', 'Action': 'start', 'Instance': {'service_name': 'training-upa9c2', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.66, 'sm_limits': 0.8600000000000001, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 15:47:09', 'Action': 'start', 'Instance': {'service_name': 'training-57y5l7', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.75, 'sm_limits': 0.95, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:47:09', 'Action': 'delete', 'Instance': {'service_name': 'inference-b0vnof', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:10', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-9d7pcw', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.8, 'memory': [25]}}
+{'Time': '2024-06-19 15:47:11', 'Action': 'start', 'Instance': {'service_name': 'training-jxafwk', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.76, 'sm_limits': 0.99, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:47:12', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-btnb77', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.52, 'sm_limits': 0.74, 'memory': [22]}}
+{'Time': '2024-06-19 15:47:13', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-lygb0u', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.44, 'sm_limits': 0.68, 'memory': [22]}}
+{'Time': '2024-06-19 15:47:14', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-thup17', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.51, 'sm_limits': 0.74, 'memory': [30]}}
+{'Time': '2024-06-19 15:47:14', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-esnt4q', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.57, 'sm_limits': 0.78, 'memory': [21]}}
+{'Time': '2024-06-19 15:47:15', 'Action': 'start', 'Instance': {'service_name': 'training-kdehuh', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.55, 'sm_limits': 0.75, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:47:15', 'Action': 'delete', 'Instance': {'service_name': 'inference-knekf5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:16', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-a9wpq9', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.41, 'sm_limits': 0.76, 'memory': [28]}}
+{'Time': '2024-06-19 15:47:17', 'Action': 'start', 'Instance': {'service_name': 'training-qiajfu', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.77, 'sm_limits': 0.97, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 15:47:18', 'Action': 'start', 'Instance': {'service_name': 'inference-jon6z1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [3]}}
+{'Time': '2024-06-19 15:47:18', 'Action': 'delete', 'Instance': {'service_name': 'inference-zfvmw9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [4]}}
+{'Time': '2024-06-19 15:47:19', 'Action': 'start', 'Instance': {'service_name': 'training-n20azi', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.68, 'sm_limits': 0.8800000000000001, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:47:19', 'Action': 'delete', 'Instance': {'service_name': 'inference-jouyma', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [7]}}
+{'Time': '2024-06-19 15:47:20', 'Action': 'start', 'Instance': {'service_name': 'training-piceb3', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.69, 'sm_limits': 0.8899999999999999, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:47:21', 'Action': 'start', 'Instance': {'service_name': 'inference-vy21el', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:21', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-w4qpuf', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.66, 'memory': [28]}}
+{'Time': '2024-06-19 15:47:22', 'Action': 'start', 'Instance': {'service_name': 'inference-t56h9o', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.48, 'memory': [6]}}
+{'Time': '2024-06-19 15:47:23', 'Action': 'start', 'Instance': {'service_name': 'training-ahkpjd', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.68, 'sm_limits': 0.96, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:47:24', 'Action': 'start', 'Instance': {'service_name': 'inference-1x9j2v', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [3]}}
+{'Time': '2024-06-19 15:47:25', 'Action': 'start', 'Instance': {'service_name': 'training-bo5erz', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.49, 'sm_limits': 0.7, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:47:26', 'Action': 'start', 'Instance': {'service_name': 'inference-vglity', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:27', 'Action': 'start', 'Instance': {'service_name': 'inference-8hfcou', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:27', 'Action': 'delete', 'Instance': {'service_name': 'inference-rbxbw2', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [8]}}
+{'Time': '2024-06-19 15:47:28', 'Action': 'start', 'Instance': {'service_name': 'inference-shfhh7', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:28', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-vsofg5', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.49, 'sm_limits': 0.69, 'memory': [25]}}
+{'Time': '2024-06-19 15:47:29', 'Action': 'start', 'Instance': {'service_name': 'training-b7m68f', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.69, 'sm_limits': 0.92, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:47:30', 'Action': 'start', 'Instance': {'service_name': 'inference-xasfwv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.41000000000000003, 'memory': [10]}}
+{'Time': '2024-06-19 15:47:30', 'Action': 'delete', 'Instance': {'service_name': 'inference-ff84xm', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [8]}}
+{'Time': '2024-06-19 15:47:31', 'Action': 'start', 'Instance': {'service_name': 'inference-ws17zb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:32', 'Action': 'start', 'Instance': {'service_name': 'inference-qarhv9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [10]}}
+{'Time': '2024-06-19 15:47:32', 'Action': 'delete', 'Instance': {'service_name': 'inference-72iggp', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.59, 'memory': [8]}}
+{'Time': '2024-06-19 15:47:33', 'Action': 'start', 'Instance': {'service_name': 'inference-2k6frt', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [7]}}
+{'Time': '2024-06-19 15:47:34', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-aia02j', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.55, 'sm_limits': 0.78, 'memory': [20]}}
+{'Time': '2024-06-19 15:47:35', 'Action': 'start', 'Instance': {'service_name': 'inference-5rytdq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [4]}}
+{'Time': '2024-06-19 15:47:35', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-36a8tk', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.78, 'memory': [20]}}
+{'Time': '2024-06-19 15:47:36', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-nluyjq', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.76, 'memory': [21]}}
+{'Time': '2024-06-19 15:47:37', 'Action': 'start', 'Instance': {'service_name': 'inference-mufun8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [3]}}
+{'Time': '2024-06-19 15:47:38', 'Action': 'start', 'Instance': {'service_name': 'inference-o8uxhr', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [7]}}
+{'Time': '2024-06-19 15:47:38', 'Action': 'delete', 'Instance': {'service_name': 'inference-ufviqd', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [4]}}
+{'Time': '2024-06-19 15:47:39', 'Action': 'start', 'Instance': {'service_name': 'inference-27zown', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.56, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:40', 'Action': 'start', 'Instance': {'service_name': 'inference-0i6xjx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:40', 'Action': 'delete', 'Instance': {'service_name': 'inference-s24gfq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.54, 'memory': [3]}}
+{'Time': '2024-06-19 15:47:41', 'Action': 'start', 'Instance': {'service_name': 'inference-ai8zzr', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:42', 'Action': 'start', 'Instance': {'service_name': 'training-8hojwu', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.48, 'sm_limits': 0.68, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:47:43', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-7qe76e', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [20]}}
+{'Time': '2024-06-19 15:47:44', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-xp7aec', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.47, 'sm_limits': 0.74, 'memory': [27]}}
+{'Time': '2024-06-19 15:47:44', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-pdoqcq', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [21]}}
+{'Time': '2024-06-19 15:47:45', 'Action': 'start', 'Instance': {'service_name': 'inference-gu5zj8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [6]}}
+{'Time': '2024-06-19 15:47:45', 'Action': 'delete', 'Instance': {'service_name': 'inference-ivt707', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [6]}}
+{'Time': '2024-06-19 15:47:46', 'Action': 'start', 'Instance': {'service_name': 'inference-8ojfrf', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.5, 'memory': [6]}}
+{'Time': '2024-06-19 15:47:47', 'Action': 'start', 'Instance': {'service_name': 'inference-3c8zg6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:47', 'Action': 'delete', 'Instance': {'service_name': 'inference-y5kh3u', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:48', 'Action': 'start', 'Instance': {'service_name': 'training-mgzpuh', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:47:48', 'Action': 'delete', 'Instance': {'service_name': 'inference-gn1jfi', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.46, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:49', 'Action': 'start', 'Instance': {'service_name': 'training-lgxmx0', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.56, 'sm_limits': 0.99, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:47:49', 'Action': 'delete', 'Instance': {'service_name': 'inference-0rbri3', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.53, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:50', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-ekkdpd', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [20]}}
+{'Time': '2024-06-19 15:47:50', 'Action': 'delete', 'Instance': {'service_name': 'inference-pza8k5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:51', 'Action': 'start', 'Instance': {'service_name': 'inference-oqxgjg', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:52', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-fof3y6', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.41, 'sm_limits': 0.78, 'memory': [24]}}
+{'Time': '2024-06-19 15:47:53', 'Action': 'start', 'Instance': {'service_name': 'inference-ccpx3i', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [6]}}
+{'Time': '2024-06-19 15:47:53', 'Action': 'delete', 'Instance': {'service_name': 'inference-g34mw4', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.57, 'memory': [9]}}
+{'Time': '2024-06-19 15:47:54', 'Action': 'start', 'Instance': {'service_name': 'inference-edyaj5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [4]}}
+{'Time': '2024-06-19 15:47:55', 'Action': 'start', 'Instance': {'service_name': 'inference-o1mkuh', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [6]}}
+{'Time': '2024-06-19 15:47:55', 'Action': 'delete', 'Instance': {'service_name': 'inference-uway4a', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [10]}}
+{'Time': '2024-06-19 15:47:56', 'Action': 'start', 'Instance': {'service_name': 'inference-p1fuwb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:57', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-v89upk', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.47, 'sm_limits': 0.78, 'memory': [24]}}
+{'Time': '2024-06-19 15:47:58', 'Action': 'start', 'Instance': {'service_name': 'training-fuhfca', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.68, 'sm_limits': 0.8800000000000001, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:47:58', 'Action': 'delete', 'Instance': {'service_name': 'inference-yism2r', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [5]}}
+{'Time': '2024-06-19 15:47:59', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-865s4z', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.49, 'sm_limits': 0.74, 'memory': [26]}}
+{'Time': '2024-06-19 15:47:59', 'Action': 'delete', 'Instance': {'service_name': 'inference-slo83l', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [7]}}
+{'Time': '2024-06-19 15:48:00', 'Action': 'start', 'Instance': {'service_name': 'inference-oabnby', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.56, 'memory': [5]}}
+{'Time': '2024-06-19 15:48:01', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-l27pws', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.58, 'sm_limits': 0.79, 'memory': [26]}}
+{'Time': '2024-06-19 15:48:02', 'Action': 'start', 'Instance': {'service_name': 'training-2j14n0', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.46, 'sm_limits': 0.84, 'memory': [25, 25]}}
+{'Time': '2024-06-19 15:48:03', 'Action': 'start', 'Instance': {'service_name': 'inference-1lnd5a', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [5]}}
+{'Time': '2024-06-19 15:48:04', 'Action': 'start', 'Instance': {'service_name': 'training-rnxk4k', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.49, 'sm_limits': 0.69, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:48:04', 'Action': 'delete', 'Instance': {'service_name': 'inference-o6zgvb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [9]}}
+{'Time': '2024-06-19 15:48:05', 'Action': 'start', 'Instance': {'service_name': 'inference-e5v5s7', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [6]}}
+{'Time': '2024-06-19 15:48:05', 'Action': 'delete', 'Instance': {'service_name': 'inference-7e95mb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [8]}}
+{'Time': '2024-06-19 15:48:06', 'Action': 'start', 'Instance': {'service_name': 'inference-wawoj8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [6]}}
+{'Time': '2024-06-19 15:48:07', 'Action': 'start', 'Instance': {'service_name': 'training-r3rtbx', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.54, 'sm_limits': 0.74, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:48:07', 'Action': 'delete', 'Instance': {'service_name': 'inference-43k7ib', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.59, 'memory': [9]}}
+{'Time': '2024-06-19 15:48:08', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-wpmlsy', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.78, 'memory': [30]}}
+{'Time': '2024-06-19 15:48:09', 'Action': 'start', 'Instance': {'service_name': 'inference-zsbh33', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [4]}}
+{'Time': '2024-06-19 15:48:10', 'Action': 'start', 'Instance': {'service_name': 'inference-owvidv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.53, 'memory': [7]}}
+{'Time': '2024-06-19 15:48:10', 'Action': 'delete', 'Instance': {'service_name': 'inference-n09gox', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.54, 'memory': [8]}}
+{'Time': '2024-06-19 15:48:11', 'Action': 'start', 'Instance': {'service_name': 'inference-vjxeld', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [5]}}
+{'Time': '2024-06-19 15:48:11', 'Action': 'delete', 'Instance': {'service_name': 'inference-3y56u4', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.41000000000000003, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:12', 'Action': 'start', 'Instance': {'service_name': 'inference-lvcy8r', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [8]}}
+{'Time': '2024-06-19 15:48:13', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-4jnfds', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.58, 'sm_limits': 0.8, 'memory': [24]}}
+{'Time': '2024-06-19 15:48:14', 'Action': 'start', 'Instance': {'service_name': 'training-ganklu', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.73, 'sm_limits': 0.9299999999999999, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:48:14', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-thup17', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.51, 'sm_limits': 0.74, 'memory': [30]}}
+{'Time': '2024-06-19 15:48:15', 'Action': 'start', 'Instance': {'service_name': 'inference-2hi0dz', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:16', 'Action': 'start', 'Instance': {'service_name': 'inference-m8zs30', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [5]}}
+{'Time': '2024-06-19 15:48:17', 'Action': 'start', 'Instance': {'service_name': 'inference-nka12b', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:17', 'Action': 'delete', 'Instance': {'service_name': 'inference-kpv3r1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [5]}}
+{'Time': '2024-06-19 15:48:18', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-7t0gij', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.64, 'memory': [21]}}
+{'Time': '2024-06-19 15:48:19', 'Action': 'start', 'Instance': {'service_name': 'inference-wlljd3', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.58, 'memory': [8]}}
+{'Time': '2024-06-19 15:48:20', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-q53sv9', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.7, 'memory': [24]}}
+{'Time': '2024-06-19 15:48:21', 'Action': 'start', 'Instance': {'service_name': 'inference-upsiy6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.43, 'memory': [3]}}
+{'Time': '2024-06-19 15:48:22', 'Action': 'start', 'Instance': {'service_name': 'inference-68yx3f', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:23', 'Action': 'start', 'Instance': {'service_name': 'inference-47ed3x', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [8]}}
+{'Time': '2024-06-19 15:48:24', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-f9bx93', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.74, 'memory': [22]}}
+{'Time': '2024-06-19 15:48:24', 'Action': 'delete', 'Instance': {'service_name': 'inference-1x9j2v', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [3]}}
+{'Time': '2024-06-19 15:48:25', 'Action': 'start', 'Instance': {'service_name': 'inference-jxqm7v', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [4]}}
+{'Time': '2024-06-19 15:48:26', 'Action': 'start', 'Instance': {'service_name': 'inference-d3wo4r', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [8]}}
+{'Time': '2024-06-19 15:48:27', 'Action': 'start', 'Instance': {'service_name': 'training-ulrsfh', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.45, 'sm_limits': 0.65, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:48:28', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-ix4mpd', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.75, 'memory': [22]}}
+{'Time': '2024-06-19 15:48:29', 'Action': 'start', 'Instance': {'service_name': 'inference-fkrq94', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [9]}}
+{'Time': '2024-06-19 15:48:30', 'Action': 'start', 'Instance': {'service_name': 'training-4w4knt', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.7, 'sm_limits': 0.8999999999999999, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:48:31', 'Action': 'start', 'Instance': {'service_name': 'inference-8vgnht', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [3]}}
+{'Time': '2024-06-19 15:48:31', 'Action': 'delete', 'Instance': {'service_name': 'inference-ws17zb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [9]}}
+{'Time': '2024-06-19 15:48:32', 'Action': 'start', 'Instance': {'service_name': 'inference-i81cts', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [7]}}
+{'Time': '2024-06-19 15:48:32', 'Action': 'delete', 'Instance': {'service_name': 'inference-qarhv9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:33', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-9vtex5', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.44, 'sm_limits': 0.78, 'memory': [28]}}
+{'Time': '2024-06-19 15:48:33', 'Action': 'delete', 'Instance': {'service_name': 'inference-2k6frt', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [7]}}
+{'Time': '2024-06-19 15:48:34', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-fy4dk2', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.71, 'memory': [24]}}
+{'Time': '2024-06-19 15:48:34', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-aia02j', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.55, 'sm_limits': 0.78, 'memory': [20]}}
+{'Time': '2024-06-19 15:48:35', 'Action': 'start', 'Instance': {'service_name': 'inference-cq10iu', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.44, 'memory': [9]}}
+{'Time': '2024-06-19 15:48:35', 'Action': 'delete', 'Instance': {'service_name': 'inference-5rytdq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [4]}}
+{'Time': '2024-06-19 15:48:36', 'Action': 'start', 'Instance': {'service_name': 'inference-dodkf6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [3]}}
+{'Time': '2024-06-19 15:48:36', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-nluyjq', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.76, 'memory': [21]}}
+{'Time': '2024-06-19 15:48:37', 'Action': 'start', 'Instance': {'service_name': 'inference-w0ll74', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.59, 'memory': [4]}}
+{'Time': '2024-06-19 15:48:37', 'Action': 'delete', 'Instance': {'service_name': 'inference-fcjkpb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [3]}}
+{'Time': '2024-06-19 15:48:37', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-av4shk', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.8, 'memory': [25]}}
+{'Time': '2024-06-19 15:48:38', 'Action': 'start', 'Instance': {'service_name': 'inference-h0ftl9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [6]}}
+{'Time': '2024-06-19 15:48:39', 'Action': 'start', 'Instance': {'service_name': 'inference-5uhqu6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [5]}}
+{'Time': '2024-06-19 15:48:39', 'Action': 'delete', 'Instance': {'service_name': 'inference-27zown', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.56, 'memory': [5]}}
+{'Time': '2024-06-19 15:48:40', 'Action': 'start', 'Instance': {'service_name': 'inference-n7mekb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.2, 'sm_limits': 0.4, 'memory': [9]}}
+{'Time': '2024-06-19 15:48:40', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-7ahnts', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.48, 'sm_limits': 0.8, 'memory': [23]}}
+{'Time': '2024-06-19 15:48:41', 'Action': 'start', 'Instance': {'service_name': 'inference-y4wce0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.44, 'memory': [7]}}
+{'Time': '2024-06-19 15:48:41', 'Action': 'delete', 'Instance': {'service_name': 'inference-gaalq6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.55, 'memory': [9]}}
+{'Time': '2024-06-19 15:48:41', 'Action': 'delete', 'Instance': {'service_name': 'inference-hfc1vh', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.59, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:42', 'Action': 'start', 'Instance': {'service_name': 'inference-n3x777', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:43', 'Action': 'start', 'Instance': {'service_name': 'inference-tlnfb1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.57, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:43', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-whmfn1', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.57, 'sm_limits': 0.79, 'memory': [24]}}
+{'Time': '2024-06-19 15:48:44', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-9e4yc8', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.53, 'sm_limits': 0.75, 'memory': [26]}}
+{'Time': '2024-06-19 15:48:45', 'Action': 'start', 'Instance': {'service_name': 'training-xa1wss', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.7, 'sm_limits': 0.8999999999999999, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:48:46', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-ufzalp', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.78, 'memory': [30]}}
+{'Time': '2024-06-19 15:48:46', 'Action': 'delete', 'Instance': {'service_name': 'inference-8ojfrf', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.5, 'memory': [6]}}
+{'Time': '2024-06-19 15:48:47', 'Action': 'start', 'Instance': {'service_name': 'training-2rb8bp', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.5, 'sm_limits': 0.73, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 15:48:48', 'Action': 'start', 'Instance': {'service_name': 'inference-yp88hz', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [6]}}
+{'Time': '2024-06-19 15:48:49', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-9kus6j', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.41, 'sm_limits': 0.7, 'memory': [24]}}
+{'Time': '2024-06-19 15:48:50', 'Action': 'start', 'Instance': {'service_name': 'training-iutag7', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.58, 'sm_limits': 0.78, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 15:48:51', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-5atujq', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.44, 'sm_limits': 0.68, 'memory': [24]}}
+{'Time': '2024-06-19 15:48:52', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-si6a0j', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.47, 'sm_limits': 0.68, 'memory': [21]}}
+{'Time': '2024-06-19 15:48:52', 'Action': 'delete', 'Instance': {'service_name': 'inference-3s09w2', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:53', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-yskwgd', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.55, 'sm_limits': 0.78, 'memory': [27]}}
+{'Time': '2024-06-19 15:48:54', 'Action': 'start', 'Instance': {'service_name': 'inference-eqtpw2', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.55, 'memory': [4]}}
+{'Time': '2024-06-19 15:48:55', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-uffywy', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.54, 'sm_limits': 0.77, 'memory': [25]}}
+{'Time': '2024-06-19 15:48:56', 'Action': 'start', 'Instance': {'service_name': 'training-egz15z', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.65, 'sm_limits': 0.8500000000000001, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 15:48:57', 'Action': 'start', 'Instance': {'service_name': 'inference-jfpu86', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [4]}}
+{'Time': '2024-06-19 15:48:57', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-v89upk', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.47, 'sm_limits': 0.78, 'memory': [24]}}
+{'Time': '2024-06-19 15:48:58', 'Action': 'start', 'Instance': {'service_name': 'training-rtxlt5', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.53, 'sm_limits': 0.74, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:48:58', 'Action': 'delete', 'Instance': {'service_name': 'inference-p7dsqw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.59, 'memory': [10]}}
+{'Time': '2024-06-19 15:48:59', 'Action': 'start', 'Instance': {'service_name': 'training-8q3hac', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.65, 'sm_limits': 0.8500000000000001, 'memory': [25, 25]}}
+{'Time': '2024-06-19 15:48:59', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-865s4z', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.49, 'sm_limits': 0.74, 'memory': [26]}}
+{'Time': '2024-06-19 15:49:00', 'Action': 'start', 'Instance': {'service_name': 'inference-73xgae', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:01', 'Action': 'start', 'Instance': {'service_name': 'inference-z5hhpg', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:01', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-l27pws', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.58, 'sm_limits': 0.79, 'memory': [26]}}
+{'Time': '2024-06-19 15:49:02', 'Action': 'start', 'Instance': {'service_name': 'training-tddfia', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.51, 'sm_limits': 0.72, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:49:02', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-losr9b', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.44, 'sm_limits': 0.73, 'memory': [22]}}
+{'Time': '2024-06-19 15:49:02', 'Action': 'delete', 'Instance': {'service_name': 'inference-m52rjk', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [3]}}
+{'Time': '2024-06-19 15:49:03', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-5no8g6', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.58, 'sm_limits': 0.79, 'memory': [30]}}
+{'Time': '2024-06-19 15:49:04', 'Action': 'start', 'Instance': {'service_name': 'inference-8d4rjq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:05', 'Action': 'start', 'Instance': {'service_name': 'inference-la73cu', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.52, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:05', 'Action': 'delete', 'Instance': {'service_name': 'inference-m36fuq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.59, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:06', 'Action': 'start', 'Instance': {'service_name': 'inference-8pgcbh', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [10]}}
+{'Time': '2024-06-19 15:49:07', 'Action': 'start', 'Instance': {'service_name': 'inference-wmmqqh', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [7]}}
+{'Time': '2024-06-19 15:49:07', 'Action': 'delete', 'Instance': {'service_name': 'inference-9m1jbn', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.57, 'memory': [6]}}
+{'Time': '2024-06-19 15:49:08', 'Action': 'start', 'Instance': {'service_name': 'training-p8zlwk', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.78, 'sm_limits': 0.98, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:49:08', 'Action': 'delete', 'Instance': {'service_name': 'inference-a2gbi0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:09', 'Action': 'start', 'Instance': {'service_name': 'inference-9dmtq4', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:10', 'Action': 'start', 'Instance': {'service_name': 'inference-djh8l8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.47, 'memory': [7]}}
+{'Time': '2024-06-19 15:49:10', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-9d7pcw', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.8, 'memory': [25]}}
+{'Time': '2024-06-19 15:49:10', 'Action': 'delete', 'Instance': {'service_name': 'inference-owvidv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.53, 'memory': [7]}}
+{'Time': '2024-06-19 15:49:11', 'Action': 'start', 'Instance': {'service_name': 'inference-widcay', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.56, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:12', 'Action': 'start', 'Instance': {'service_name': 'inference-agz68q', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:12', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-btnb77', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.52, 'sm_limits': 0.74, 'memory': [22]}}
+{'Time': '2024-06-19 15:49:13', 'Action': 'start', 'Instance': {'service_name': 'inference-o50w5m', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.51, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:14', 'Action': 'start', 'Instance': {'service_name': 'inference-tlph3k', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.59, 'memory': [8]}}
+{'Time': '2024-06-19 15:49:15', 'Action': 'start', 'Instance': {'service_name': 'inference-pyjsuo', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.58, 'memory': [6]}}
+{'Time': '2024-06-19 15:49:15', 'Action': 'delete', 'Instance': {'service_name': 'inference-2hi0dz', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [10]}}
+{'Time': '2024-06-19 15:49:16', 'Action': 'start', 'Instance': {'service_name': 'inference-jgb9p9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.5, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:17', 'Action': 'start', 'Instance': {'service_name': 'inference-1r7gqn', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [7]}}
+{'Time': '2024-06-19 15:49:18', 'Action': 'start', 'Instance': {'service_name': 'inference-onvht6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.2, 'sm_limits': 0.48, 'memory': [8]}}
+{'Time': '2024-06-19 15:49:18', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-7t0gij', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.64, 'memory': [21]}}
+{'Time': '2024-06-19 15:49:19', 'Action': 'start', 'Instance': {'service_name': 'inference-3w47bx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.49, 'memory': [3]}}
+{'Time': '2024-06-19 15:49:20', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-3rpsxw', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.6, 'sm_limits': 0.8, 'memory': [27]}}
+{'Time': '2024-06-19 15:49:20', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-q53sv9', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.7, 'memory': [24]}}
+{'Time': '2024-06-19 15:49:21', 'Action': 'start', 'Instance': {'service_name': 'inference-a5n7tf', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [10]}}
+{'Time': '2024-06-19 15:49:22', 'Action': 'start', 'Instance': {'service_name': 'inference-3glf7p', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.48, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:22', 'Action': 'delete', 'Instance': {'service_name': 'inference-68yx3f', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [10]}}
+{'Time': '2024-06-19 15:49:23', 'Action': 'start', 'Instance': {'service_name': 'inference-gbb6k8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [8]}}
+{'Time': '2024-06-19 15:49:24', 'Action': 'start', 'Instance': {'service_name': 'inference-z4y2as', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.54, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:24', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-f9bx93', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.74, 'memory': [22]}}
+{'Time': '2024-06-19 15:49:25', 'Action': 'start', 'Instance': {'service_name': 'inference-cdae7b', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.59, 'memory': [3]}}
+{'Time': '2024-06-19 15:49:26', 'Action': 'start', 'Instance': {'service_name': 'training-esk0qs', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.66, 'sm_limits': 0.8600000000000001, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:49:26', 'Action': 'delete', 'Instance': {'service_name': 'inference-52dxng', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [8]}}
+{'Time': '2024-06-19 15:49:27', 'Action': 'start', 'Instance': {'service_name': 'inference-3ylqy6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.58, 'memory': [10]}}
+{'Time': '2024-06-19 15:49:27', 'Action': 'delete', 'Instance': {'service_name': 'inference-8hfcou', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:28', 'Action': 'start', 'Instance': {'service_name': 'inference-9wymms', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:28', 'Action': 'delete', 'Instance': {'service_name': 'inference-shfhh7', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:29', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-rs5yrr', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.67, 'memory': [25]}}
+{'Time': '2024-06-19 15:49:29', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-98r9al', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.43, 'sm_limits': 0.74, 'memory': [28]}}
+{'Time': '2024-06-19 15:49:30', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-qxd5oo', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.77, 'memory': [26]}}
+{'Time': '2024-06-19 15:49:31', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-r2p8b0', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.7, 'memory': [20]}}
+{'Time': '2024-06-19 15:49:32', 'Action': 'start', 'Instance': {'service_name': 'inference-tdt39p', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [3]}}
+{'Time': '2024-06-19 15:49:33', 'Action': 'start', 'Instance': {'service_name': 'inference-fqphvx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:33', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-y3wns8', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.47, 'sm_limits': 0.68, 'memory': [20]}}
+{'Time': '2024-06-19 15:49:34', 'Action': 'start', 'Instance': {'service_name': 'inference-o1sfjq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [6]}}
+{'Time': '2024-06-19 15:49:34', 'Action': 'delete', 'Instance': {'service_name': 'inference-cwk6wx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:35', 'Action': 'start', 'Instance': {'service_name': 'inference-pnw91j', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.58, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:35', 'Action': 'delete', 'Instance': {'service_name': 'inference-cq10iu', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.44, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:36', 'Action': 'start', 'Instance': {'service_name': 'training-lmnlmx', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.68, 'sm_limits': 0.8800000000000001, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:49:37', 'Action': 'start', 'Instance': {'service_name': 'inference-yzyooj', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [10]}}
+{'Time': '2024-06-19 15:49:37', 'Action': 'delete', 'Instance': {'service_name': 'inference-w0ll74', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.59, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:38', 'Action': 'start', 'Instance': {'service_name': 'inference-kxwhtc', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.58, 'memory': [8]}}
+{'Time': '2024-06-19 15:49:38', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-tcoiam', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.77, 'memory': [29]}}
+{'Time': '2024-06-19 15:49:39', 'Action': 'start', 'Instance': {'service_name': 'inference-x1c0zw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.2, 'sm_limits': 0.4, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:40', 'Action': 'start', 'Instance': {'service_name': 'training-hvhp60', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.66, 'sm_limits': 0.89, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 15:49:40', 'Action': 'delete', 'Instance': {'service_name': 'inference-n7mekb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.2, 'sm_limits': 0.4, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:41', 'Action': 'start', 'Instance': {'service_name': 'inference-matjep', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.57, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:42', 'Action': 'start', 'Instance': {'service_name': 'inference-cm5reb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [8]}}
+{'Time': '2024-06-19 15:49:42', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-lpzyc0', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.54, 'sm_limits': 0.79, 'memory': [25]}}
+{'Time': '2024-06-19 15:49:43', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-0l7in8', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.69, 'memory': [29]}}
+{'Time': '2024-06-19 15:49:44', 'Action': 'start', 'Instance': {'service_name': 'inference-4p10k9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.46, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:44', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-eb4enn', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.51, 'sm_limits': 0.72, 'memory': [26]}}
+{'Time': '2024-06-19 15:49:45', 'Action': 'start', 'Instance': {'service_name': 'inference-9nlfts', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:45', 'Action': 'delete', 'Instance': {'service_name': 'inference-ungh9e', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [7]}}
+{'Time': '2024-06-19 15:49:45', 'Action': 'delete', 'Instance': {'service_name': 'inference-gu5zj8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [6]}}
+{'Time': '2024-06-19 15:49:46', 'Action': 'start', 'Instance': {'service_name': 'inference-ozemz5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:46', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-vy6ic1', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.77, 'memory': [24]}}
+{'Time': '2024-06-19 15:49:47', 'Action': 'start', 'Instance': {'service_name': 'training-6gyys9', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.7, 'sm_limits': 0.9, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:49:47', 'Action': 'delete', 'Instance': {'service_name': 'inference-3c8zg6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:48', 'Action': 'start', 'Instance': {'service_name': 'inference-o4b5dv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:49', 'Action': 'start', 'Instance': {'service_name': 'training-c23l1k', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.41, 'sm_limits': 0.84, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:49:49', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-9kus6j', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.41, 'sm_limits': 0.7, 'memory': [24]}}
+{'Time': '2024-06-19 15:49:50', 'Action': 'start', 'Instance': {'service_name': 'inference-6mokhm', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.52, 'memory': [3]}}
+{'Time': '2024-06-19 15:49:50', 'Action': 'delete', 'Instance': {'service_name': 'inference-pq9kx8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [10]}}
+{'Time': '2024-06-19 15:49:51', 'Action': 'start', 'Instance': {'service_name': 'inference-nihpil', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.6, 'memory': [3]}}
+{'Time': '2024-06-19 15:49:51', 'Action': 'delete', 'Instance': {'service_name': 'inference-5wavva', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:52', 'Action': 'start', 'Instance': {'service_name': 'inference-ywrmb7', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:52', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-fof3y6', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.41, 'sm_limits': 0.78, 'memory': [24]}}
+{'Time': '2024-06-19 15:49:53', 'Action': 'start', 'Instance': {'service_name': 'inference-bl92h9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [8]}}
+{'Time': '2024-06-19 15:49:54', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-fdq2ny', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.79, 'memory': [29]}}
+{'Time': '2024-06-19 15:49:54', 'Action': 'delete', 'Instance': {'service_name': 'inference-edyaj5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:55', 'Action': 'start', 'Instance': {'service_name': 'inference-vp3jac', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [3]}}
+{'Time': '2024-06-19 15:49:55', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-uffywy', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.54, 'sm_limits': 0.77, 'memory': [25]}}
+{'Time': '2024-06-19 15:49:56', 'Action': 'start', 'Instance': {'service_name': 'inference-4r6rls', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:56', 'Action': 'delete', 'Instance': {'service_name': 'inference-p1fuwb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [5]}}
+{'Time': '2024-06-19 15:49:56', 'Action': 'delete', 'Instance': {'service_name': 'inference-yfblpi', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.52, 'memory': [8]}}
+{'Time': '2024-06-19 15:49:57', 'Action': 'start', 'Instance': {'service_name': 'training-kvksk3', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.5, 'sm_limits': 0.77, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:49:57', 'Action': 'delete', 'Instance': {'service_name': 'inference-jfpu86', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [4]}}
+{'Time': '2024-06-19 15:49:57', 'Action': 'delete', 'Instance': {'service_name': 'inference-a3xdm8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.46, 'memory': [3]}}
+{'Time': '2024-06-19 15:49:58', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-er5z26', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.76, 'memory': [27]}}
+{'Time': '2024-06-19 15:49:59', 'Action': 'start', 'Instance': {'service_name': 'inference-1ij038', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:49:59', 'Action': 'delete', 'Instance': {'service_name': 'inference-xkl42f', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [5]}}
+{'Time': '2024-06-19 15:50:00', 'Action': 'start', 'Instance': {'service_name': 'inference-pze2lu', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:00', 'Action': 'delete', 'Instance': {'service_name': 'inference-i1cqqw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.59, 'memory': [5]}}
+{'Time': '2024-06-19 15:50:00', 'Action': 'delete', 'Instance': {'service_name': 'inference-73xgae', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:01', 'Action': 'start', 'Instance': {'service_name': 'inference-e6b3rx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.6, 'memory': [6]}}
+{'Time': '2024-06-19 15:50:02', 'Action': 'start', 'Instance': {'service_name': 'inference-2nh9ps', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [7]}}
+{'Time': '2024-06-19 15:50:03', 'Action': 'start', 'Instance': {'service_name': 'training-zuhoo7', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [25, 25]}}
+{'Time': '2024-06-19 15:50:03', 'Action': 'delete', 'Instance': {'service_name': 'inference-1lnd5a', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [5]}}
+{'Time': '2024-06-19 15:50:04', 'Action': 'start', 'Instance': {'service_name': 'training-9h9hma', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.48, 'sm_limits': 0.6799999999999999, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:50:04', 'Action': 'delete', 'Instance': {'service_name': 'inference-8d4rjq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [4]}}
+{'Time': '2024-06-19 15:50:05', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-2eph5a', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.52, 'sm_limits': 0.75, 'memory': [27]}}
+{'Time': '2024-06-19 15:50:05', 'Action': 'delete', 'Instance': {'service_name': 'inference-e5v5s7', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [6]}}
+{'Time': '2024-06-19 15:50:06', 'Action': 'start', 'Instance': {'service_name': 'training-2vcxsl', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.63, 'sm_limits': 0.95, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:50:06', 'Action': 'delete', 'Instance': {'service_name': 'inference-jlbj87', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [5]}}
+{'Time': '2024-06-19 15:50:07', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-ftxqlo', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.43, 'sm_limits': 0.71, 'memory': [29]}}
+{'Time': '2024-06-19 15:50:08', 'Action': 'start', 'Instance': {'service_name': 'inference-edij34', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.58, 'memory': [7]}}
+{'Time': '2024-06-19 15:50:09', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-9rzb2s', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.53, 'sm_limits': 0.73, 'memory': [30]}}
+{'Time': '2024-06-19 15:50:09', 'Action': 'delete', 'Instance': {'service_name': 'inference-zsbh33', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [4]}}
+{'Time': '2024-06-19 15:50:10', 'Action': 'start', 'Instance': {'service_name': 'inference-khrygb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [7]}}
+{'Time': '2024-06-19 15:50:11', 'Action': 'start', 'Instance': {'service_name': 'training-kej570', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.44, 'sm_limits': 0.72, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:50:12', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-pnfeu6', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.71, 'memory': [24]}}
+{'Time': '2024-06-19 15:50:13', 'Action': 'start', 'Instance': {'service_name': 'training-69egdn', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.48, 'sm_limits': 0.72, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:50:13', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-lygb0u', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.44, 'sm_limits': 0.68, 'memory': [22]}}
+{'Time': '2024-06-19 15:50:13', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-4jnfds', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.58, 'sm_limits': 0.8, 'memory': [24]}}
+{'Time': '2024-06-19 15:50:14', 'Action': 'start', 'Instance': {'service_name': 'inference-hvpcu9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [8]}}
+{'Time': '2024-06-19 15:50:15', 'Action': 'start', 'Instance': {'service_name': 'inference-xk2zz2', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:16', 'Action': 'start', 'Instance': {'service_name': 'training-ubxzfy', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.67, 'sm_limits': 0.8700000000000001, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:50:17', 'Action': 'start', 'Instance': {'service_name': 'inference-9gq647', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.59, 'memory': [6]}}
+{'Time': '2024-06-19 15:50:18', 'Action': 'start', 'Instance': {'service_name': 'inference-648nvs', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:18', 'Action': 'delete', 'Instance': {'service_name': 'inference-jon6z1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:19', 'Action': 'start', 'Instance': {'service_name': 'training-empm6f', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.48, 'sm_limits': 0.88, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:50:19', 'Action': 'delete', 'Instance': {'service_name': 'inference-wlljd3', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.58, 'memory': [8]}}
+{'Time': '2024-06-19 15:50:20', 'Action': 'start', 'Instance': {'service_name': 'inference-8fd0vu', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.57, 'memory': [5]}}
+{'Time': '2024-06-19 15:50:21', 'Action': 'start', 'Instance': {'service_name': 'training-34gcd0', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.43, 'sm_limits': 0.7, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:50:21', 'Action': 'delete', 'Instance': {'service_name': 'inference-a5n7tf', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [10]}}
+{'Time': '2024-06-19 15:50:21', 'Action': 'delete', 'Instance': {'service_name': 'inference-vy21el', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:22', 'Action': 'start', 'Instance': {'service_name': 'inference-xh3na1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:23', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-cd6wa7', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.73, 'memory': [20]}}
+{'Time': '2024-06-19 15:50:23', 'Action': 'delete', 'Instance': {'service_name': 'inference-gbb6k8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [8]}}
+{'Time': '2024-06-19 15:50:24', 'Action': 'start', 'Instance': {'service_name': 'inference-x7kkwy', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.57, 'memory': [10]}}
+{'Time': '2024-06-19 15:50:25', 'Action': 'start', 'Instance': {'service_name': 'training-hotqzc', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.44, 'sm_limits': 0.65, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:50:26', 'Action': 'start', 'Instance': {'service_name': 'training-532xea', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.66, 'sm_limits': 0.8600000000000001, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:50:27', 'Action': 'start', 'Instance': {'service_name': 'inference-3tquqr', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:28', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-cvk84f', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.79, 'memory': [26]}}
+{'Time': '2024-06-19 15:50:28', 'Action': 'delete', 'Instance': {'service_name': 'inference-9wymms', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [5]}}
+{'Time': '2024-06-19 15:50:29', 'Action': 'start', 'Instance': {'service_name': 'training-ps7yof', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.43, 'sm_limits': 0.85, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:50:29', 'Action': 'delete', 'Instance': {'service_name': 'inference-fkrq94', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:29', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-rs5yrr', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.67, 'memory': [25]}}
+{'Time': '2024-06-19 15:50:30', 'Action': 'start', 'Instance': {'service_name': 'inference-5qhk3c', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:30', 'Action': 'delete', 'Instance': {'service_name': 'inference-xasfwv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.41000000000000003, 'memory': [10]}}
+{'Time': '2024-06-19 15:50:31', 'Action': 'start', 'Instance': {'service_name': 'inference-hjtzrh', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [10]}}
+{'Time': '2024-06-19 15:50:31', 'Action': 'delete', 'Instance': {'service_name': 'inference-8vgnht', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:32', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-a5gnsi', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.55, 'sm_limits': 0.77, 'memory': [21]}}
+{'Time': '2024-06-19 15:50:33', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-5vr7ef', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.55, 'sm_limits': 0.78, 'memory': [23]}}
+{'Time': '2024-06-19 15:50:34', 'Action': 'start', 'Instance': {'service_name': 'inference-e6150c', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.2, 'sm_limits': 0.55, 'memory': [8]}}
+{'Time': '2024-06-19 15:50:35', 'Action': 'start', 'Instance': {'service_name': 'inference-p1tt4s', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.45, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:36', 'Action': 'start', 'Instance': {'service_name': 'inference-s1x95v', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:37', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-49awu2', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.7, 'memory': [23]}}
+{'Time': '2024-06-19 15:50:37', 'Action': 'delete', 'Instance': {'service_name': 'inference-yzyooj', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [10]}}
+{'Time': '2024-06-19 15:50:37', 'Action': 'delete', 'Instance': {'service_name': 'inference-mufun8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:38', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-8q5jjj', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.49, 'sm_limits': 0.8, 'memory': [28]}}
+{'Time': '2024-06-19 15:50:39', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-k2abnt', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.72, 'memory': [22]}}
+{'Time': '2024-06-19 15:50:39', 'Action': 'delete', 'Instance': {'service_name': 'inference-x1c0zw', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.2, 'sm_limits': 0.4, 'memory': [4]}}
+{'Time': '2024-06-19 15:50:40', 'Action': 'start', 'Instance': {'service_name': 'inference-31cj2a', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [4]}}
+{'Time': '2024-06-19 15:50:40', 'Action': 'delete', 'Instance': {'service_name': 'inference-0i6xjx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:41', 'Action': 'start', 'Instance': {'service_name': 'inference-cr6pgc', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:42', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-z6v91p', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.62, 'memory': [22]}}
+{'Time': '2024-06-19 15:50:42', 'Action': 'delete', 'Instance': {'service_name': 'inference-cm5reb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [8]}}
+{'Time': '2024-06-19 15:50:43', 'Action': 'start', 'Instance': {'service_name': 'inference-6fqali', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.59, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:43', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-7qe76e', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [20]}}
+{'Time': '2024-06-19 15:50:43', 'Action': 'delete', 'Instance': {'service_name': 'inference-tlnfb1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.57, 'memory': [10]}}
+{'Time': '2024-06-19 15:50:44', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-559861', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.52, 'sm_limits': 0.75, 'memory': [25]}}
+{'Time': '2024-06-19 15:50:44', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-xp7aec', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.47, 'sm_limits': 0.74, 'memory': [27]}}
+{'Time': '2024-06-19 15:50:45', 'Action': 'start', 'Instance': {'service_name': 'inference-w5vwar', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.58, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:46', 'Action': 'start', 'Instance': {'service_name': 'inference-tj5jfu', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:47', 'Action': 'start', 'Instance': {'service_name': 'training-u05z85', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.4, 'sm_limits': 0.67, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:50:48', 'Action': 'start', 'Instance': {'service_name': 'inference-vboph9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.51, 'memory': [4]}}
+{'Time': '2024-06-19 15:50:49', 'Action': 'start', 'Instance': {'service_name': 'training-cztygf', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.51, 'sm_limits': 0.91, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:50:50', 'Action': 'start', 'Instance': {'service_name': 'inference-t6i8ed', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [8]}}
+{'Time': '2024-06-19 15:50:51', 'Action': 'start', 'Instance': {'service_name': 'training-1y1p2o', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.56, 'sm_limits': 0.76, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:50:51', 'Action': 'delete', 'Instance': {'service_name': 'inference-nihpil', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.6, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:51', 'Action': 'delete', 'Instance': {'service_name': 'inference-oqxgjg', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:51', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-5atujq', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.44, 'sm_limits': 0.68, 'memory': [24]}}
+{'Time': '2024-06-19 15:50:52', 'Action': 'start', 'Instance': {'service_name': 'inference-xl6hy5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [7]}}
+{'Time': '2024-06-19 15:50:52', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-si6a0j', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.47, 'sm_limits': 0.68, 'memory': [21]}}
+{'Time': '2024-06-19 15:50:52', 'Action': 'delete', 'Instance': {'service_name': 'inference-ywrmb7', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [5]}}
+{'Time': '2024-06-19 15:50:53', 'Action': 'start', 'Instance': {'service_name': 'inference-07i8bx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [5]}}
+{'Time': '2024-06-19 15:50:53', 'Action': 'delete', 'Instance': {'service_name': 'inference-ccpx3i', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [6]}}
+{'Time': '2024-06-19 15:50:54', 'Action': 'start', 'Instance': {'service_name': 'inference-rtulux', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:55', 'Action': 'start', 'Instance': {'service_name': 'inference-fgnu61', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [9]}}
+{'Time': '2024-06-19 15:50:55', 'Action': 'delete', 'Instance': {'service_name': 'inference-vp3jac', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [3]}}
+{'Time': '2024-06-19 15:50:56', 'Action': 'start', 'Instance': {'service_name': 'training-rxhyl0', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.69, 'sm_limits': 0.8899999999999999, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:50:57', 'Action': 'start', 'Instance': {'service_name': 'inference-mrztui', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.59, 'memory': [4]}}
+{'Time': '2024-06-19 15:50:58', 'Action': 'start', 'Instance': {'service_name': 'inference-6ouy5t', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [10]}}
+{'Time': '2024-06-19 15:50:59', 'Action': 'start', 'Instance': {'service_name': 'inference-zvqm1z', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [4]}}
+{'Time': '2024-06-19 15:50:59', 'Action': 'delete', 'Instance': {'service_name': 'inference-1ij038', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:51:00', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-a31es8', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.71, 'memory': [30]}}
+{'Time': '2024-06-19 15:51:00', 'Action': 'delete', 'Instance': {'service_name': 'inference-oabnby', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.56, 'memory': [5]}}
+{'Time': '2024-06-19 15:51:01', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-5d5u2u', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.69, 'memory': [20]}}
+{'Time': '2024-06-19 15:51:02', 'Action': 'start', 'Instance': {'service_name': 'inference-k10je9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.51, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:03', 'Action': 'start', 'Instance': {'service_name': 'training-l827hk', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.79, 'sm_limits': 0.99, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:51:04', 'Action': 'start', 'Instance': {'service_name': 'inference-lzeutd', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.56, 'memory': [10]}}
+{'Time': '2024-06-19 15:51:05', 'Action': 'start', 'Instance': {'service_name': 'inference-988rke', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.45, 'memory': [4]}}
+{'Time': '2024-06-19 15:51:05', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-2eph5a', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.52, 'sm_limits': 0.75, 'memory': [27]}}
+{'Time': '2024-06-19 15:51:06', 'Action': 'start', 'Instance': {'service_name': 'inference-rqeqkj', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:06', 'Action': 'delete', 'Instance': {'service_name': 'inference-wawoj8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:06', 'Action': 'delete', 'Instance': {'service_name': 'inference-8pgcbh', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [10]}}
+{'Time': '2024-06-19 15:51:07', 'Action': 'start', 'Instance': {'service_name': 'inference-ydo3oz', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.44, 'memory': [4]}}
+{'Time': '2024-06-19 15:51:08', 'Action': 'start', 'Instance': {'service_name': 'inference-6qzcrc', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.51, 'memory': [8]}}
+{'Time': '2024-06-19 15:51:08', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-wpmlsy', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.78, 'memory': [30]}}
+{'Time': '2024-06-19 15:51:09', 'Action': 'start', 'Instance': {'service_name': 'training-ig6p0k', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.76, 'sm_limits': 0.96, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:51:10', 'Action': 'start', 'Instance': {'service_name': 'training-yconz8', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.58, 'sm_limits': 0.95, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:51:10', 'Action': 'delete', 'Instance': {'service_name': 'inference-khrygb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [7]}}
+{'Time': '2024-06-19 15:51:11', 'Action': 'start', 'Instance': {'service_name': 'inference-k7rni0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:12', 'Action': 'start', 'Instance': {'service_name': 'inference-9ndwmt', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:13', 'Action': 'start', 'Instance': {'service_name': 'inference-7ckq47', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.59, 'memory': [9]}}
+{'Time': '2024-06-19 15:51:14', 'Action': 'start', 'Instance': {'service_name': 'training-2r231q', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.7, 'sm_limits': 0.8999999999999999, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:51:15', 'Action': 'start', 'Instance': {'service_name': 'training-ul1osr', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.61, 'sm_limits': 0.81, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:51:15', 'Action': 'delete', 'Instance': {'service_name': 'inference-xk2zz2', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:16', 'Action': 'start', 'Instance': {'service_name': 'training-ian6g8', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.42, 'sm_limits': 0.96, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:51:16', 'Action': 'delete', 'Instance': {'service_name': 'inference-m8zs30', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [5]}}
+{'Time': '2024-06-19 15:51:17', 'Action': 'start', 'Instance': {'service_name': 'training-psm78a', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.68, 'sm_limits': 0.8800000000000001, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:51:17', 'Action': 'delete', 'Instance': {'service_name': 'inference-9gq647', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.59, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:18', 'Action': 'start', 'Instance': {'service_name': 'inference-v04ale', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.57, 'memory': [7]}}
+{'Time': '2024-06-19 15:51:18', 'Action': 'delete', 'Instance': {'service_name': 'inference-648nvs', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:19', 'Action': 'start', 'Instance': {'service_name': 'inference-xdf7sy', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.54, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:20', 'Action': 'start', 'Instance': {'service_name': 'inference-zvc60d', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.6, 'memory': [8]}}
+{'Time': '2024-06-19 15:51:21', 'Action': 'start', 'Instance': {'service_name': 'inference-dy57o1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [8]}}
+{'Time': '2024-06-19 15:51:22', 'Action': 'start', 'Instance': {'service_name': 'inference-vetl94', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.59, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:23', 'Action': 'start', 'Instance': {'service_name': 'training-hgjj3k', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.62, 'sm_limits': 0.8200000000000001, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:51:23', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-cd6wa7', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.73, 'memory': [20]}}
+{'Time': '2024-06-19 15:51:24', 'Action': 'start', 'Instance': {'service_name': 'inference-b6j7yj', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.58, 'memory': [10]}}
+{'Time': '2024-06-19 15:51:25', 'Action': 'start', 'Instance': {'service_name': 'training-xtrzbu', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.65, 'sm_limits': 0.8500000000000001, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:51:25', 'Action': 'delete', 'Instance': {'service_name': 'inference-cdae7b', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.59, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:25', 'Action': 'delete', 'Instance': {'service_name': 'inference-jxqm7v', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [4]}}
+{'Time': '2024-06-19 15:51:26', 'Action': 'start', 'Instance': {'service_name': 'inference-t45kof', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:27', 'Action': 'start', 'Instance': {'service_name': 'inference-yyxjqg', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [8]}}
+{'Time': '2024-06-19 15:51:27', 'Action': 'delete', 'Instance': {'service_name': 'inference-3tquqr', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:28', 'Action': 'start', 'Instance': {'service_name': 'inference-6ekvgr', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [4]}}
+{'Time': '2024-06-19 15:51:29', 'Action': 'start', 'Instance': {'service_name': 'training-qb8ml4', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.58, 'sm_limits': 0.78, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 15:51:30', 'Action': 'start', 'Instance': {'service_name': 'inference-k3hgpe', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:30', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-qxd5oo', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.77, 'memory': [26]}}
+{'Time': '2024-06-19 15:51:31', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-ztjvdv', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.51, 'sm_limits': 0.78, 'memory': [21]}}
+{'Time': '2024-06-19 15:51:31', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-r2p8b0', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.7, 'memory': [20]}}
+{'Time': '2024-06-19 15:51:32', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-6dhgdo', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.58, 'sm_limits': 0.79, 'memory': [25]}}
+{'Time': '2024-06-19 15:51:33', 'Action': 'start', 'Instance': {'service_name': 'inference-91lsfv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [8]}}
+{'Time': '2024-06-19 15:51:33', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-5vr7ef', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.55, 'sm_limits': 0.78, 'memory': [23]}}
+{'Time': '2024-06-19 15:51:34', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-f6we59', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.68, 'memory': [26]}}
+{'Time': '2024-06-19 15:51:34', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-fy4dk2', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.71, 'memory': [24]}}
+{'Time': '2024-06-19 15:51:35', 'Action': 'start', 'Instance': {'service_name': 'inference-cuawf6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [8]}}
+{'Time': '2024-06-19 15:51:35', 'Action': 'delete', 'Instance': {'service_name': 'inference-pnw91j', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.58, 'memory': [9]}}
+{'Time': '2024-06-19 15:51:35', 'Action': 'delete', 'Instance': {'service_name': 'inference-p1tt4s', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.45, 'memory': [9]}}
+{'Time': '2024-06-19 15:51:36', 'Action': 'start', 'Instance': {'service_name': 'inference-h5326i', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:51:37', 'Action': 'start', 'Instance': {'service_name': 'inference-dz78se', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [4]}}
+{'Time': '2024-06-19 15:51:38', 'Action': 'start', 'Instance': {'service_name': 'inference-vmyotp', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [7]}}
+{'Time': '2024-06-19 15:51:38', 'Action': 'delete', 'Instance': {'service_name': 'inference-h0ftl9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:39', 'Action': 'start', 'Instance': {'service_name': 'inference-vyj5tb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:39', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-k2abnt', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.72, 'memory': [22]}}
+{'Time': '2024-06-19 15:51:39', 'Action': 'delete', 'Instance': {'service_name': 'inference-5uhqu6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [5]}}
+{'Time': '2024-06-19 15:51:40', 'Action': 'start', 'Instance': {'service_name': 'inference-65q70u', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.46, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:41', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-mkqf6k', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.73, 'memory': [22]}}
+{'Time': '2024-06-19 15:51:42', 'Action': 'start', 'Instance': {'service_name': 'inference-b5mlr0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.51, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:42', 'Action': 'delete', 'Instance': {'service_name': 'inference-n3x777', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [10]}}
+{'Time': '2024-06-19 15:51:43', 'Action': 'start', 'Instance': {'service_name': 'inference-0jpb4u', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.54, 'memory': [10]}}
+{'Time': '2024-06-19 15:51:44', 'Action': 'start', 'Instance': {'service_name': 'training-7kw4jd', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.68, 'sm_limits': 0.95, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:51:44', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-559861', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.52, 'sm_limits': 0.75, 'memory': [25]}}
+{'Time': '2024-06-19 15:51:45', 'Action': 'start', 'Instance': {'service_name': 'training-az341n', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.63, 'sm_limits': 0.8300000000000001, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:51:45', 'Action': 'delete', 'Instance': {'service_name': 'inference-9nlfts', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [5]}}
+{'Time': '2024-06-19 15:51:46', 'Action': 'start', 'Instance': {'service_name': 'inference-5zn8wq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.44, 'memory': [9]}}
+{'Time': '2024-06-19 15:51:46', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-ufzalp', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.78, 'memory': [30]}}
+{'Time': '2024-06-19 15:51:46', 'Action': 'delete', 'Instance': {'service_name': 'inference-tj5jfu', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:47', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-3rmizm', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.72, 'memory': [29]}}
+{'Time': '2024-06-19 15:51:48', 'Action': 'start', 'Instance': {'service_name': 'inference-wncjwn', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.44, 'memory': [9]}}
+{'Time': '2024-06-19 15:51:48', 'Action': 'delete', 'Instance': {'service_name': 'inference-yp88hz', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [6]}}
+{'Time': '2024-06-19 15:51:49', 'Action': 'start', 'Instance': {'service_name': 'training-qnlo3o', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.42, 'sm_limits': 0.9, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:51:50', 'Action': 'start', 'Instance': {'service_name': 'training-1dmkki', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.56, 'sm_limits': 0.94, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:51:51', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-w0ai77', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.78, 'memory': [23]}}
+{'Time': '2024-06-19 15:51:52', 'Action': 'start', 'Instance': {'service_name': 'inference-q888e5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.56, 'memory': [7]}}
+{'Time': '2024-06-19 15:51:52', 'Action': 'delete', 'Instance': {'service_name': 'inference-xl6hy5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [7]}}
+{'Time': '2024-06-19 15:51:53', 'Action': 'start', 'Instance': {'service_name': 'inference-tvxqc0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.44, 'memory': [9]}}
+{'Time': '2024-06-19 15:51:53', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-yskwgd', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.55, 'sm_limits': 0.78, 'memory': [27]}}
+{'Time': '2024-06-19 15:51:54', 'Action': 'start', 'Instance': {'service_name': 'training-qpzu7y', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.76, 'sm_limits': 0.96, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:51:54', 'Action': 'delete', 'Instance': {'service_name': 'inference-eqtpw2', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.55, 'memory': [4]}}
+{'Time': '2024-06-19 15:51:54', 'Action': 'delete', 'Instance': {'service_name': 'inference-rtulux', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [3]}}
+{'Time': '2024-06-19 15:51:55', 'Action': 'start', 'Instance': {'service_name': 'inference-ucbybe', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.2, 'sm_limits': 0.48, 'memory': [7]}}
+{'Time': '2024-06-19 15:51:56', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-sa443z', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.49, 'sm_limits': 0.73, 'memory': [24]}}
+{'Time': '2024-06-19 15:51:57', 'Action': 'start', 'Instance': {'service_name': 'inference-96jug8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [9]}}
+{'Time': '2024-06-19 15:51:58', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-cc90le', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.56, 'sm_limits': 0.76, 'memory': [25]}}
+{'Time': '2024-06-19 15:51:58', 'Action': 'delete', 'Instance': {'service_name': 'inference-6ouy5t', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [10]}}
+{'Time': '2024-06-19 15:51:59', 'Action': 'start', 'Instance': {'service_name': 'training-t3irkn', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.69, 'sm_limits': 0.8899999999999999, 'memory': [25, 25]}}
+{'Time': '2024-06-19 15:52:00', 'Action': 'start', 'Instance': {'service_name': 'training-92cmxt', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.4, 'sm_limits': 0.84, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:52:01', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-8vjgfq', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [23]}}
+{'Time': '2024-06-19 15:52:01', 'Action': 'delete', 'Instance': {'service_name': 'inference-z5hhpg', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [9]}}
+{'Time': '2024-06-19 15:52:02', 'Action': 'start', 'Instance': {'service_name': 'training-ru308v', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.58, 'sm_limits': 0.91, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:52:03', 'Action': 'start', 'Instance': {'service_name': 'inference-i5hjde', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [10]}}
+{'Time': '2024-06-19 15:52:04', 'Action': 'start', 'Instance': {'service_name': 'inference-ow4ohr', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [6]}}
+{'Time': '2024-06-19 15:52:05', 'Action': 'start', 'Instance': {'service_name': 'inference-g659uy', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [7]}}
+{'Time': '2024-06-19 15:52:06', 'Action': 'start', 'Instance': {'service_name': 'inference-jllb2i', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [4]}}
+{'Time': '2024-06-19 15:52:07', 'Action': 'start', 'Instance': {'service_name': 'inference-oqww0m', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.47, 'memory': [10]}}
+{'Time': '2024-06-19 15:52:07', 'Action': 'delete', 'Instance': {'service_name': 'inference-ydo3oz', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.44, 'memory': [4]}}
+{'Time': '2024-06-19 15:52:08', 'Action': 'start', 'Instance': {'service_name': 'training-89wsgc', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.76, 'sm_limits': 0.96, 'memory': [30, 30]}}
+{'Time': '2024-06-19 15:52:09', 'Action': 'start', 'Instance': {'service_name': 'inference-k1jz7y', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [7]}}
+{'Time': '2024-06-19 15:52:09', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-9rzb2s', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.53, 'sm_limits': 0.73, 'memory': [30]}}
+{'Time': '2024-06-19 15:52:09', 'Action': 'delete', 'Instance': {'service_name': 'inference-9dmtq4', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [4]}}
+{'Time': '2024-06-19 15:52:10', 'Action': 'start', 'Instance': {'service_name': 'inference-fslr8z', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [7]}}
+{'Time': '2024-06-19 15:52:11', 'Action': 'start', 'Instance': {'service_name': 'inference-kxl9iu', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [5]}}
+{'Time': '2024-06-19 15:52:12', 'Action': 'start', 'Instance': {'service_name': 'inference-g2xcfd', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [5]}}
+{'Time': '2024-06-19 15:52:13', 'Action': 'start', 'Instance': {'service_name': 'llm-inference-zf65t1', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.41, 'sm_limits': 0.68, 'memory': [26]}}
+{'Time': '2024-06-19 15:52:14', 'Action': 'start', 'Instance': {'service_name': 'inference-7cdofd', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.59, 'memory': [3]}}
+{'Time': '2024-06-19 15:52:15', 'Action': 'start', 'Instance': {'service_name': 'inference-kfjfne', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.46, 'memory': [10]}}
+{'Time': '2024-06-19 15:52:15', 'Action': 'delete', 'Instance': {'service_name': 'inference-pyjsuo', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.58, 'memory': [6]}}
+{'Time': '2024-06-19 15:52:17', 'Action': 'delete', 'Instance': {'service_name': 'inference-1r7gqn', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [7]}}
+{'Time': '2024-06-19 15:52:19', 'Action': 'delete', 'Instance': {'service_name': 'inference-3w47bx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.49, 'memory': [3]}}
+{'Time': '2024-06-19 15:52:21', 'Action': 'delete', 'Instance': {'service_name': 'inference-dy57o1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [8]}}
+{'Time': '2024-06-19 15:52:31', 'Action': 'delete', 'Instance': {'service_name': 'inference-hjtzrh', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [10]}}
+{'Time': '2024-06-19 15:52:32', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-a5gnsi', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.55, 'sm_limits': 0.77, 'memory': [21]}}
+{'Time': '2024-06-19 15:52:36', 'Action': 'delete', 'Instance': {'service_name': 'inference-h5326i', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.39, 'sm_limits': 0.5900000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:52:37', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-49awu2', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.7, 'memory': [23]}}
+{'Time': '2024-06-19 15:52:38', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-8q5jjj', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.49, 'sm_limits': 0.8, 'memory': [28]}}
+{'Time': '2024-06-19 15:52:41', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-mkqf6k', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.73, 'memory': [22]}}
+{'Time': '2024-06-19 15:52:41', 'Action': 'delete', 'Instance': {'service_name': 'inference-matjep', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.57, 'memory': [9]}}
+{'Time': '2024-06-19 15:52:42', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-z6v91p', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.62, 'memory': [22]}}
+{'Time': '2024-06-19 15:52:43', 'Action': 'delete', 'Instance': {'service_name': 'inference-6fqali', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.25, 'sm_limits': 0.59, 'memory': [9]}}
+{'Time': '2024-06-19 15:52:43', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-0l7in8', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.69, 'memory': [29]}}
+{'Time': '2024-06-19 15:52:44', 'Action': 'delete', 'Instance': {'service_name': 'inference-4p10k9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.46, 'memory': [5]}}
+{'Time': '2024-06-19 15:52:46', 'Action': 'delete', 'Instance': {'service_name': 'inference-5zn8wq', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.21, 'sm_limits': 0.44, 'memory': [9]}}
+{'Time': '2024-06-19 15:52:48', 'Action': 'delete', 'Instance': {'service_name': 'inference-vboph9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.51, 'memory': [4]}}
+{'Time': '2024-06-19 15:52:48', 'Action': 'delete', 'Instance': {'service_name': 'inference-o4b5dv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [5]}}
+{'Time': '2024-06-19 15:52:50', 'Action': 'delete', 'Instance': {'service_name': 'inference-6mokhm', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.52, 'memory': [3]}}
+{'Time': '2024-06-19 15:52:50', 'Action': 'delete', 'Instance': {'service_name': 'inference-t6i8ed', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [8]}}
+{'Time': '2024-06-19 15:52:52', 'Action': 'delete', 'Instance': {'service_name': 'inference-q888e5', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.56, 'memory': [7]}}
+{'Time': '2024-06-19 15:52:53', 'Action': 'delete', 'Instance': {'service_name': 'inference-tvxqc0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.44, 'memory': [9]}}
+{'Time': '2024-06-19 15:52:54', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-fdq2ny', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.79, 'memory': [29]}}
+{'Time': '2024-06-19 15:52:55', 'Action': 'delete', 'Instance': {'service_name': 'inference-fgnu61', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [9]}}
+{'Time': '2024-06-19 15:52:56', 'Action': 'delete', 'Instance': {'service_name': 'inference-4r6rls', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [4]}}
+{'Time': '2024-06-19 15:52:58', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-er5z26', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.5, 'sm_limits': 0.76, 'memory': [27]}}
+{'Time': '2024-06-19 15:53:00', 'Action': 'delete', 'Instance': {'service_name': 'inference-pze2lu', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [3]}}
+{'Time': '2024-06-19 15:53:01', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-5d5u2u', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.69, 'memory': [20]}}
+{'Time': '2024-06-19 15:53:06', 'Action': 'delete', 'Instance': {'service_name': 'inference-jllb2i', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [4]}}
+{'Time': '2024-06-19 15:53:08', 'Action': 'delete', 'Instance': {'service_name': 'inference-edij34', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.58, 'memory': [7]}}
+{'Time': '2024-06-19 15:53:12', 'Action': 'delete', 'Instance': {'service_name': 'inference-9ndwmt', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.29, 'sm_limits': 0.49, 'memory': [6]}}
+{'Time': '2024-06-19 15:53:12', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-pnfeu6', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.46, 'sm_limits': 0.71, 'memory': [24]}}
+{'Time': '2024-06-19 15:53:14', 'Action': 'delete', 'Instance': {'service_name': 'inference-hvpcu9', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.52, 'memory': [8]}}
+{'Time': '2024-06-19 15:53:19', 'Action': 'delete', 'Instance': {'service_name': 'inference-xdf7sy', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.54, 'memory': [3]}}
+{'Time': '2024-06-19 15:53:20', 'Action': 'delete', 'Instance': {'service_name': 'inference-zvc60d', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.34, 'sm_limits': 0.6, 'memory': [8]}}
+{'Time': '2024-06-19 15:53:22', 'Action': 'delete', 'Instance': {'service_name': 'inference-xh3na1', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [3]}}
+{'Time': '2024-06-19 15:53:22', 'Action': 'delete', 'Instance': {'service_name': 'inference-vetl94', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.59, 'memory': [6]}}
+{'Time': '2024-06-19 15:53:32', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-6dhgdo', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.58, 'sm_limits': 0.79, 'memory': [25]}}
+{'Time': '2024-06-19 15:53:33', 'Action': 'delete', 'Instance': {'service_name': 'inference-91lsfv', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [8]}}
+{'Time': '2024-06-19 15:53:35', 'Action': 'delete', 'Instance': {'service_name': 'inference-cuawf6', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.42000000000000004, 'memory': [8]}}
+{'Time': '2024-06-19 15:53:37', 'Action': 'delete', 'Instance': {'service_name': 'inference-dz78se', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.31, 'sm_limits': 0.51, 'memory': [4]}}
+{'Time': '2024-06-19 15:53:39', 'Action': 'delete', 'Instance': {'service_name': 'inference-vyj5tb', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [3]}}
+{'Time': '2024-06-19 15:53:40', 'Action': 'delete', 'Instance': {'service_name': 'inference-31cj2a', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.36, 'sm_limits': 0.56, 'memory': [4]}}
+{'Time': '2024-06-19 15:53:41', 'Action': 'delete', 'Instance': {'service_name': 'inference-cr6pgc', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.4, 'sm_limits': 0.6000000000000001, 'memory': [9]}}
+{'Time': '2024-06-19 15:53:47', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-3rmizm', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.45, 'sm_limits': 0.72, 'memory': [29]}}
+{'Time': '2024-06-19 15:53:48', 'Action': 'delete', 'Instance': {'service_name': 'inference-wncjwn', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.24, 'sm_limits': 0.44, 'memory': [9]}}
+{'Time': '2024-06-19 15:53:53', 'Action': 'delete', 'Instance': {'service_name': 'inference-07i8bx', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.5700000000000001, 'memory': [5]}}
+{'Time': '2024-06-19 15:53:56', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-sa443z', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.49, 'sm_limits': 0.73, 'memory': [24]}}
+{'Time': '2024-06-19 15:53:59', 'Action': 'delete', 'Instance': {'service_name': 'inference-zvqm1z', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [4]}}
+{'Time': '2024-06-19 15:54:00', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-a31es8', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.71, 'memory': [30]}}
+{'Time': '2024-06-19 15:54:03', 'Action': 'delete', 'Instance': {'service_name': 'inference-i5hjde', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.38, 'sm_limits': 0.5800000000000001, 'memory': [10]}}
+{'Time': '2024-06-19 15:54:05', 'Action': 'delete', 'Instance': {'service_name': 'inference-g659uy', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [7]}}
+{'Time': '2024-06-19 15:54:06', 'Action': 'delete', 'Instance': {'service_name': 'inference-rqeqkj', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.28, 'sm_limits': 0.48000000000000004, 'memory': [6]}}
+{'Time': '2024-06-19 15:54:08', 'Action': 'delete', 'Instance': {'service_name': 'inference-6qzcrc', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.51, 'memory': [8]}}
+{'Time': '2024-06-19 15:54:13', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-zf65t1', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.41, 'sm_limits': 0.68, 'memory': [26]}}
+{'Time': '2024-06-19 15:54:14', 'Action': 'delete', 'Instance': {'service_name': 'inference-7cdofd', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.37, 'sm_limits': 0.59, 'memory': [3]}}
+{'Time': '2024-06-19 15:54:15', 'Action': 'delete', 'Instance': {'service_name': 'inference-kfjfne', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.22, 'sm_limits': 0.46, 'memory': [10]}}
+{'Time': '2024-06-19 15:54:18', 'Action': 'delete', 'Instance': {'service_name': 'inference-v04ale', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.32, 'sm_limits': 0.57, 'memory': [7]}}
+{'Time': '2024-06-19 15:54:26', 'Action': 'delete', 'Instance': {'service_name': 'inference-t45kof', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [6]}}
+{'Time': '2024-06-19 15:54:27', 'Action': 'delete', 'Instance': {'service_name': 'inference-yyxjqg', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.3, 'sm_limits': 0.5, 'memory': [8]}}
+{'Time': '2024-06-19 15:54:30', 'Action': 'delete', 'Instance': {'service_name': 'inference-k3hgpe', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.35, 'sm_limits': 0.55, 'memory': [3]}}
+{'Time': '2024-06-19 15:54:34', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-f6we59', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.42, 'sm_limits': 0.68, 'memory': [26]}}
+{'Time': '2024-06-19 15:54:38', 'Action': 'delete', 'Instance': {'service_name': 'inference-vmyotp', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.23, 'sm_limits': 0.43000000000000005, 'memory': [7]}}
+{'Time': '2024-06-19 15:54:42', 'Action': 'delete', 'Instance': {'service_name': 'inference-b5mlr0', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.26, 'sm_limits': 0.51, 'memory': [6]}}
+{'Time': '2024-06-19 15:54:55', 'Action': 'delete', 'Instance': {'service_name': 'inference-ucbybe', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.2, 'sm_limits': 0.48, 'memory': [7]}}
+{'Time': '2024-06-19 15:54:57', 'Action': 'delete', 'Instance': {'service_name': 'inference-96jug8', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.33, 'sm_limits': 0.53, 'memory': [9]}}
+{'Time': '2024-06-19 15:55:01', 'Action': 'delete', 'Instance': {'service_name': 'llm-inference-8vjgfq', 'type': 'llm-inference', 'gpu_num': 1, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [23]}}
+{'Time': '2024-06-19 15:55:12', 'Action': 'delete', 'Instance': {'service_name': 'inference-g2xcfd', 'type': 'inference', 'gpu_num': 1, 'sm_requests': 0.27, 'sm_limits': 0.47000000000000003, 'memory': [5]}}
+{'Time': '2024-06-19 15:56:01', 'Action': 'delete', 'Instance': {'service_name': 'training-fwu976', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.49, 'sm_limits': 0.74, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:57:23', 'Action': 'delete', 'Instance': {'service_name': 'training-ahkpjd', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.68, 'sm_limits': 0.96, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:57:43', 'Action': 'delete', 'Instance': {'service_name': 'training-0uyahm', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.52, 'sm_limits': 0.8, 'memory': [40, 40]}}
+{'Time': '2024-06-19 15:57:58', 'Action': 'delete', 'Instance': {'service_name': 'training-fuhfca', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.68, 'sm_limits': 0.8800000000000001, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 15:58:25', 'Action': 'delete', 'Instance': {'service_name': 'training-bfbcx3', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.72, 'sm_limits': 1.0, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 15:58:58', 'Action': 'delete', 'Instance': {'service_name': 'training-rtxlt5', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.53, 'sm_limits': 0.74, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 15:59:23', 'Action': 'delete', 'Instance': {'service_name': 'training-arpp82', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.6, 'sm_limits': 0.89, 'memory': [35, 35]}}
+{'Time': '2024-06-19 15:59:56', 'Action': 'delete', 'Instance': {'service_name': 'training-egz15z', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.65, 'sm_limits': 0.8500000000000001, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 15:59:59', 'Action': 'delete', 'Instance': {'service_name': 'training-8q3hac', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.65, 'sm_limits': 0.8500000000000001, 'memory': [25, 25]}}
+{'Time': '2024-06-19 16:00:09', 'Action': 'delete', 'Instance': {'service_name': 'training-57y5l7', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.75, 'sm_limits': 0.95, 'memory': [40, 40]}}
+{'Time': '2024-06-19 16:00:11', 'Action': 'delete', 'Instance': {'service_name': 'training-kej570', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.44, 'sm_limits': 0.72, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 16:00:13', 'Action': 'delete', 'Instance': {'service_name': 'training-69egdn', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.48, 'sm_limits': 0.72, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 16:00:39', 'Action': 'delete', 'Instance': {'service_name': 'training-k8ri30', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.68, 'sm_limits': 0.8800000000000001, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 16:00:47', 'Action': 'delete', 'Instance': {'service_name': 'training-2rb8bp', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.5, 'sm_limits': 0.73, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 16:01:00', 'Action': 'delete', 'Instance': {'service_name': 'training-nsxatk', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.56, 'sm_limits': 0.83, 'memory': [35, 35]}}
+{'Time': '2024-06-19 16:01:04', 'Action': 'delete', 'Instance': {'service_name': 'training-9h9hma', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.48, 'sm_limits': 0.6799999999999999, 'memory': [35, 35]}}
+{'Time': '2024-06-19 16:01:25', 'Action': 'delete', 'Instance': {'service_name': 'training-xtrzbu', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.65, 'sm_limits': 0.8500000000000001, 'memory': [30, 30]}}
+{'Time': '2024-06-19 16:01:45', 'Action': 'delete', 'Instance': {'service_name': 'training-xa1wss', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.7, 'sm_limits': 0.8999999999999999, 'memory': [40, 40]}}
+{'Time': '2024-06-19 16:01:48', 'Action': 'delete', 'Instance': {'service_name': 'training-mgzpuh', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.59, 'sm_limits': 0.79, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 16:01:50', 'Action': 'delete', 'Instance': {'service_name': 'training-iutag7', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.58, 'sm_limits': 0.78, 'memory': [30, 30, 30, 30]}}
+{'Time': '2024-06-19 16:01:56', 'Action': 'delete', 'Instance': {'service_name': 'training-rxhyl0', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.69, 'sm_limits': 0.8899999999999999, 'memory': [30, 30]}}
+{'Time': '2024-06-19 16:02:03', 'Action': 'delete', 'Instance': {'service_name': 'training-l827hk', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.79, 'sm_limits': 0.99, 'memory': [35, 35]}}
+{'Time': '2024-06-19 16:02:15', 'Action': 'delete', 'Instance': {'service_name': 'training-kdehuh', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.55, 'sm_limits': 0.75, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 16:02:16', 'Action': 'delete', 'Instance': {'service_name': 'training-ubxzfy', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.67, 'sm_limits': 0.8700000000000001, 'memory': [35, 35]}}
+{'Time': '2024-06-19 16:02:49', 'Action': 'delete', 'Instance': {'service_name': 'training-c23l1k', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.41, 'sm_limits': 0.84, 'memory': [30, 30]}}
+{'Time': '2024-06-19 16:02:57', 'Action': 'delete', 'Instance': {'service_name': 'training-kvksk3', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.5, 'sm_limits': 0.77, 'memory': [40, 40]}}
+{'Time': '2024-06-19 16:03:02', 'Action': 'delete', 'Instance': {'service_name': 'training-2j14n0', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.46, 'sm_limits': 0.84, 'memory': [25, 25]}}
+{'Time': '2024-06-19 16:03:27', 'Action': 'delete', 'Instance': {'service_name': 'training-ulrsfh', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.45, 'sm_limits': 0.65, 'memory': [40, 40]}}
+{'Time': '2024-06-19 16:03:45', 'Action': 'delete', 'Instance': {'service_name': 'training-az341n', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.63, 'sm_limits': 0.8300000000000001, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 16:03:50', 'Action': 'delete', 'Instance': {'service_name': 'training-1dmkki', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.56, 'sm_limits': 0.94, 'memory': [30, 30]}}
+{'Time': '2024-06-19 16:04:02', 'Action': 'delete', 'Instance': {'service_name': 'training-tddfia', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.51, 'sm_limits': 0.72, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 16:04:44', 'Action': 'delete', 'Instance': {'service_name': 'training-7kw4jd', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.68, 'sm_limits': 0.95, 'memory': [35, 35, 35, 35]}}
+{'Time': '2024-06-19 16:04:51', 'Action': 'delete', 'Instance': {'service_name': 'training-1y1p2o', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.56, 'sm_limits': 0.76, 'memory': [35, 35]}}
+{'Time': '2024-06-19 16:04:59', 'Action': 'delete', 'Instance': {'service_name': 'training-t3irkn', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.69, 'sm_limits': 0.8899999999999999, 'memory': [25, 25]}}
+{'Time': '2024-06-19 16:05:06', 'Action': 'delete', 'Instance': {'service_name': 'training-2vcxsl', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.63, 'sm_limits': 0.95, 'memory': [25, 25, 25, 25]}}
+{'Time': '2024-06-19 16:05:26', 'Action': 'delete', 'Instance': {'service_name': 'training-532xea', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.66, 'sm_limits': 0.8600000000000001, 'memory': [35, 35]}}
+{'Time': '2024-06-19 16:05:47', 'Action': 'delete', 'Instance': {'service_name': 'training-u05z85', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.4, 'sm_limits': 0.67, 'memory': [35, 35]}}
+{'Time': '2024-06-19 16:06:00', 'Action': 'delete', 'Instance': {'service_name': 'training-92cmxt', 'type': 'training', 'gpu_num': 2, 'sm_requests': 0.4, 'sm_limits': 0.84, 'memory': [35, 35]}}
+{'Time': '2024-06-19 16:06:09', 'Action': 'delete', 'Instance': {'service_name': 'training-ig6p0k', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.76, 'sm_limits': 0.96, 'memory': [40, 40, 40, 40]}}
+{'Time': '2024-06-19 16:06:14', 'Action': 'delete', 'Instance': {'service_name': 'training-2r231q', 'type': 'training', 'gpu_num': 4, 'sm_requests': 0.7, 'sm_limits': 0.8999999999999999, 'memory': [35, 35, 35, 35]}}

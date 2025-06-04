@@ -1,0 +1,3 @@
+python submiter_reqs_nlp.py --file tests/workloads/bursty.txt --func_name RoBERTa-inf > logs/dilu-without-workloadaware/roberta-bursty-10.log &
+python submiter_reqs_nlp.py --file tests/workloads/periodic.txt --func_name Bert-inf > logs/dilu-without-workloadaware/bert-periodic-10.log & 
+python submiter_reqs_gpt.py --req_rate 3 --req_nums 200 --func_name llama2-7B-inf > logs/dilu-without-workloadaware/llama2-poisson-3.log &

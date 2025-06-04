@@ -1,0 +1,95 @@
+import requests
+import time
+import random
+import threading
+from datetime import datetime
+import numpy as np
+import io
+import pickle
+import argparse
+np.random.seed(42) 
+
+
+latencies = [] 
+latency_lock = threading.Lock() 
+
+def send_request(request_id, buffer, url):
+    # data = {"image": buffer.getvalue()}
+    start_time = time.time()  
+    current_time = datetime.now().strftime("%d/%b/%Y %H:%M:%S")  
+    print(f"Request {request_id} sent at {current_time}")
+    
+    response = requests.post(url, data=buffer)
+    end_time = time.time() 
+    
+    latency = (end_time - start_time) * 1000 
+    with latency_lock:  
+        latencies.append(latency)
+    if response.status_code == 200:
+        print(f"Request {request_id} completed successfully. Latency: {latency:.2f} ms")
+    else:
+        print(f"Request {request_id} failed with status {response.status_code}. Latency: {latency:.2f} ms")
+
+def thread_manager(num_requests, rate, urls):
+    
+    threads = []
+    # uniform distribution
+    # for i in range(num_requests):
+    #     request_content = ' '.join(random.choices(words_list, k=128))
+    #     thread = threading.Thread(target=send_request, args=(i, request_content, urls[i%len(urls)]))
+    #     thread.start()
+    #     threads.append(thread)
+    #     time.sleep(1 / rate)  
+    
+    # poisson distribution
+    random_data = np.random.poisson(lam=rate, size=200)
+    random_index = 0
+    request_id = 0
+    while num_requests>0:
+        rate = random_data[random_index]
+        random_index += 1
+        for _ in range(rate):
+            # image_data = np.random.rand(3, 224, 224).astype(np.float16)
+            # buffer = io.BytesIO()
+            # pickle.dump(image_data, buffer)
+            # buffer.seek(0)
+            buffer = "data"
+            thread = threading.Thread(target=send_request, args=(request_id, buffer, urls[request_id%len(urls)]))
+            thread.start()
+            threads.append(thread)
+            time.sleep(1 / rate) 
+            request_id+=1
+            num_requests -= 1
+            if num_requests<=0:
+                break
+
+    
+    for thread in threads:
+        thread.join()
+        
+    latencies_array = np.array(latencies[20:])
+    print("Latency Mean:", np.mean(latencies_array))
+    print("Latency P1:", np.percentile(latencies_array, 1))   
+    print("Latency P50:", np.percentile(latencies_array, 50))
+    print("Latency P90:", np.percentile(latencies_array, 90))
+    print("Latency P95:", np.percentile(latencies_array, 95))
+    print("Latency P99:", np.percentile(latencies_array, 99))
+
+if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-req_rate', '--req_rate', default=1, type=int)
+    parser.add_argument('-req_nums', '--req_nums', default=4, type=int)
+    args = parser.parse_args()
+    
+    num_requests = args.req_nums
+    rate = args.req_rate
+    urls = [
+        "http://localhost:15000/predict",
+        # "http://localhost:15001/predict",
+        # "http://localhost:15002/predict",
+        # "http://localhost:15003/predict",
+        # "http://localhost:15004/predict",
+        # "http://localhost:15005/predict",
+        ]
+    thread_manager(num_requests, rate, urls)

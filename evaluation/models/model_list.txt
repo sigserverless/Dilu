@@ -1,0 +1,7 @@
+resnet152       cluster_scheduling/scripts_task/cv_models.resnet152
+vgg19           cluster_scheduling/scripts_task/cv_models.vgg19
+BERT-base       https://huggingface.co/google-bert/bert-base-uncased
+RoBERTa-large   https://huggingface.co/FacebookAI/roberta-large
+GPT2-large      https://huggingface.co/openai-community/gpt2-large
+LLAMA2-7B       https://huggingface.co/meta-llama/Llama-2-7b
+ChatGLM3-6B     https://huggingface.co/THUDM/chatglm3-6b
